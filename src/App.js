@@ -24,3 +24,5 @@ function App() {
 }
 
 export default App;
+
+// Deployed app link:- https://clone-41d4b.web.app
